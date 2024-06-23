@@ -1,0 +1,73 @@
+﻿  SFML.cpp
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(136,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(136,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(139,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(211,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(211,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(215,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(215,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(219,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(219,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(223,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(223,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(229,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(229,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(233,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(233,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(237,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(237,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(241,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(241,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(245,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(245,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(249,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(249,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(253,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(253,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(257,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(257,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(261,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(261,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(265,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(265,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(269,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(269,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(273,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(273,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(506,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(508,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(508,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(509,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(509,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(656,61): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(657,61): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(658,85): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(659,85): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(546,9): warning C4101: 'tempturn': unreferenced local variable
+C:\Users\HP\source\repos\Project18\Project18\SFML.cpp(130): warning C4715: 'getCircleColor': not all control paths return a value
+  Project18.vcxproj -> C:\Users\HP\source\repos\Project18\Debug\Project18.exe
